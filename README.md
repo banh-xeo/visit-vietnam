@@ -1,2 +1,2 @@
 # visit-vietnam
-Visit Vietnam Homepage: [https://visitvietnamvnn.netlify.app/](https://vnn-visit-vietnam.netlify.app/)
+Visit Vietnam Homepage: https://vnn-visit-vietnam.netlify.app/
