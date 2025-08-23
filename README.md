@@ -1,6 +1,10 @@
 # visit-vietnam
 Visit Vietnam Homepage: https://vnn-visit-vietnam.netlify.app/
 
+Note for a new tab when opening links do
+- On Mac = `CMD + Click`
+- On Window = `CTRL + Click`
+
 ### Resources
 - [For box-shadow styling](https://getcssscan.com/css-box-shadow-examples)
 - [For images](https://unsplash.com/)
