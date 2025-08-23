@@ -20,7 +20,6 @@ body {
 #hero-section {
     /* background image css for hero section */
     background-image:  url("images/mountain_and_boats.jpg");
-    /* background-image: url("images/mountain_and_boats.jpg"); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
